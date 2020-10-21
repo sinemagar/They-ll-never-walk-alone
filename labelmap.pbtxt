@@ -1,0 +1,42 @@
+item {
+  id: 1
+  name: 'beagle'
+}
+
+item {
+  id: 2
+  name: 'rot'
+}
+
+item {
+  id: 3
+  name: 'golden'
+}
+
+item {
+  id: 4
+  name: 'beyaztavsan'
+}
+
+item {
+  id: 5
+  name: 'kahvetavsan'
+}
+
+item {
+  id: 6
+  name: 'siyahtavsan'
+}
+item {
+  id: 7
+  name: 'grikedi'
+}
+item {
+  id: 8
+  name: 'sarikedi'
+}
+item {
+  id: 9
+  name: 'siyahkedi'
+}
+
